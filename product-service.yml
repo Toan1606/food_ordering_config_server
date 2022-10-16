@@ -9,3 +9,5 @@ spring:
       ddl-auto: create
     generate-ddl: true
     show-sql: true
+test:
+  name: test1
