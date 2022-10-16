@@ -10,4 +10,4 @@ spring:
     generate-ddl: true
     show-sql: true
 test:
-  name: nguyen_thuy_hanh
+  name: ta_thi_dung
